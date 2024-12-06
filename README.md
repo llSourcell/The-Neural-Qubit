@@ -13,7 +13,7 @@ an area under the ROC curve of 0.953, compared to the optimal value of 1. This i
 
 ## Installation
 
-Download the [Strawberry Fields](https://github.com/XanaduAI/strawberryfields) library. This code uses the Strawberry Fields Tensorflow backend. Right now, Strawberry Fields on supports Tensorflow 1.3. And Tensorflow 1.3 only supports versions of Python less than 3.7. So make sure you have those two, and the code will run fine. More specific installation details are on the Strawberry fields README page. 
+Download the [Strawberry Fields](https://github.com/XanaduAI/strawberryfields) library. This code uses the Strawberry Fields Tensorflow backend. Right now, Strawberry Fields only supports Tensorflow 1.3. And Tensorflow 1.3 only supports versions of Python less than 3.7. So make sure you have those two, and the code will run fine. More specific installation details are on the Strawberry fields README page. 
 
 ## Usage
 
